@@ -1,4 +1,4 @@
-# Genetic Algorithm Game
+# Genetic Algorithm Solver
 
 This is some code I wrote when I was 16. I had heard about something called "genetic algorithms" and thought they sounded super neat. I wanted to try my hand at using it to make a little game, so here it is.
 
